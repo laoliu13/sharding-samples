@@ -7,11 +7,13 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>sharding-tables</artifactId>
+    <artifactId>sharding-dbs-tables</artifactId>
     <packaging>jar</packaging>
 
-    <name>sharding-tables</name>
+    <name>sharding-dbs-tables</name>
     <url>http://maven.apache.org</url>
 
-
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 </project>
